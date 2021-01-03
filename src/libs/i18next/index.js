@@ -1,8 +1,6 @@
 import i18next from "i18next";
 import config from "./config";
 
-export { default as missingKeyHandler } from "./missing-key-handler";
-
 export function _(key) {
   return i18next.t(key);
 }

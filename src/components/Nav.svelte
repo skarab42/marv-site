@@ -1,60 +1,42 @@
 <script>
-	export let segment;
+  import { fingerprint } from "../stores/app";
+  import { createEventDispatcher } from "svelte";
+  import MdMenu from "svelte-icons/md/MdMenu.svelte";
+  import LanguageSelect from "./LanguageSelect.svelte";
+
+  export let segment;
+  export let items;
+
+  let dispatch = createEventDispatcher();
+
+  function selected(href, segment) {
+    return (segment || ".") === href ? "border-b-2 border-purple-600" : "";
+  }
+
+  function openMenu() {
+    dispatch("openMenu");
+  }
 </script>
 
-<style>
-	nav {
-		border-bottom: 1px solid rgba(255,62,0,0.1);
-		font-weight: 300;
-		padding: 0 1em;
-	}
-
-	ul {
-		margin: 0;
-		padding: 0;
-	}
-
-	/* clearfix */
-	ul::after {
-		content: '';
-		display: block;
-		clear: both;
-	}
-
-	li {
-		display: block;
-		float: left;
-	}
-
-	[aria-current] {
-		position: relative;
-		display: inline-block;
-	}
-
-	[aria-current]::after {
-		position: absolute;
-		content: '';
-		width: calc(100% - 1em);
-		height: 2px;
-		background-color: rgb(255,62,0);
-		display: block;
-		bottom: -1px;
-	}
-
-	a {
-		text-decoration: none;
-		padding: 1em 0.5em;
-		display: block;
-	}
-</style>
-
-<nav>
-	<ul>
-		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">home</a></li>
-		<li><a aria-current="{segment === 'about' ? 'page' : undefined}" href="about">about</a></li>
-
-		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
-		     the blog data when we hover over the link or tap it on a touchscreen -->
-		<li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">blog</a></li>
-	</ul>
+<nav class="flex items-center px-2 space-x-2">
+  <a class="p-2 flex items-center space-x-2 text-lg orbitron-family" href=".">
+    <img src="assets/images/marv-logo.svg" alt="{$fingerprint}" class="h-8" />
+    <span class="px-2">{$fingerprint}</span>
+  </a>
+  <div class="flex-auto"></div>
+  <LanguageSelect />
+  <div class="sm:hidden hover:bg-blue-600 cursor-pointer" on:click="{openMenu}">
+    <div class="w-8 h-8 flex-shrink-0">
+      <MdMenu />
+    </div>
+  </div>
+  <div class="hidden sm:block">
+    {#each items as item}
+      <!-- svelte-ignore a11y-missing-attribute -->
+      <a
+        class="p-2 whitespace-no-wrap uppercase hover:text-blue-600 {selected(item.props.href, segment)}"
+        {...item.props}
+      >{item.label}</a>
+    {/each}
+  </div>
 </nav>
