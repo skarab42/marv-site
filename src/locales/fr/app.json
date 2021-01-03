@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "labels": {
+      "home": "accueil",
+      "docs": "docs",
+      "about": "a propos",
+      "download": "téléchargement"
+    }
+  },
+  "tiles": {
+    "timeline": {
+      "title": "Animation timeline",
+      "text": "Create your animation..."
+    },
+    "panels": {
+      "title": "Panels",
+      "text": "Add as many panels as you want!"
+    },
+    "widgets": {
+      "title": "Widgets",
+      "text": "Add as many widgets as you want!"
+    },
+    "twitch": {
+      "title": "Twitch",
+      "text": "Handle almost all Twitch events, Follow, Sub, Raid, etc..."
+    },
+    "obs": {
+      "title": "OBS",
+      "text": "Switch your scenes, mute, ..."
+    },
+    "commands": {
+      "title": "Commands",
+      "text": "Trigger animation on chat commands."
+    }
+  }
+}
