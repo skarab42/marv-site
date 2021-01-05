@@ -1,0 +1,1 @@
+import{S as s,i as t,s as a}from"./client.eaa823d3.js";import{c as e}from"./config.adbf25fe.js";import{i as r}from"./i18next.61b8f30d.js";async function n(){const s=r.language||e.fallbackLng;return this.redirect(302,`/${s}/home`)}export default class extends s{constructor(s){super(),t(this,s,null,null,a,{})}}export{n as preload};
