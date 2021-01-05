@@ -3,9 +3,9 @@
   import FaWindows from "svelte-icons/fa/FaWindows.svelte";
   import FaLinux from "svelte-icons/fa/FaLinux.svelte";
   import FaApple from "svelte-icons/fa/FaApple.svelte";
-  import { repoURL, version, i18n } from "../stores/app";
+  import { repoURL, version, i18n } from "../../stores/app";
 
-  const link = (path, file) => `${repoURL}/${path}/${file}`;
+  const link = (path, file) => `${$repoURL}/${path}/${file}`;
 
   let bgImage = `min-height:300px; background-image: url('assets/images/download-background.jpg')`;
   let bgPosition = "bg-center bg-cover bg-no-repeat";
@@ -15,34 +15,34 @@
       title: "Windows",
       icon: FaWindows,
       color: "bg-purple-700",
-      path: `/releases/download/v${$version}/`,
+      path: `releases/download/v${$version}`,
       file: `Marv-Setup-${$version}.exe`,
     },
     {
       title: "Mac",
       icon: FaApple,
       color: "bg-purple-700",
-      path: `/releases/download/v${$version}/`,
+      path: `releases/download/v${$version}`,
       file: `Marv-${$version}.dmg`,
     },
     {
       title: "Linux",
       icon: FaLinux,
       color: "bg-purple-700",
-      path: `/releases/download/v${$version}/`,
+      path: `releases/download/v${$version}`,
       file: `Marv-${$version}.AppImage`,
     },
     {
       title: "Source",
       icon: FaFileArchive,
-      path: `/archive/`,
+      path: `archive`,
       color: "bg-gray-700",
       file: `v${$version}.zip`,
     },
     {
       title: "Source",
       icon: FaFileArchive,
-      path: `/archive/`,
+      path: `archive`,
       color: "bg-gray-700",
       file: `v${$version}.tar.gz`,
     },

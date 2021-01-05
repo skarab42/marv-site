@@ -39,7 +39,7 @@
       </h1>
       <div class="flex flex-wrap items-center justify-center">
         <HeroLink href="download" label="menu.labels.download" />
-        <HeroLink href="docs/home" label="menu.labels.docs" />
+        <HeroLink href="docs" label="menu.labels.docs" />
       </div>
       <div class="flex flex-wrap space-x-2 items-center justify-center">
         <!-- <GithubButton {...follow} />
