@@ -1,0 +1,1 @@
+import{c as n}from"./config.adbf25fe.js";import{i as t}from"./i18next.61b8f30d.js";function i(n){return t.t(n)}function r(n){return`/${t.language}/${n}`}async function a(i){return await t.init({...n,...i}),t}export{i as _,a as i,r as u};
