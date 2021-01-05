@@ -3,10 +3,7 @@
   import FaWindows from "svelte-icons/fa/FaWindows.svelte";
   import FaLinux from "svelte-icons/fa/FaLinux.svelte";
   import FaApple from "svelte-icons/fa/FaApple.svelte";
-  import { i18n } from "../../stores/app";
-
-  const version = "0.16.0";
-  const repoURL = "https://github.com/skarab42/marv";
+  import { repoURL, version, i18n } from "../stores/app";
 
   const link = (path, file) => `${repoURL}/${path}/${file}`;
 
@@ -18,36 +15,36 @@
       title: "Windows",
       icon: FaWindows,
       color: "bg-purple-700",
-      path: `/releases/download/v${version}/`,
-      file: `Marv-Setup-${version}.exe`,
+      path: `/releases/download/v${$version}/`,
+      file: `Marv-Setup-${$version}.exe`,
     },
     {
       title: "Mac",
       icon: FaApple,
       color: "bg-purple-700",
-      path: `/releases/download/v${version}/`,
-      file: `Marv-${version}.dmg`,
+      path: `/releases/download/v${$version}/`,
+      file: `Marv-${$version}.dmg`,
     },
     {
       title: "Linux",
       icon: FaLinux,
       color: "bg-purple-700",
-      path: `/releases/download/v${version}/`,
-      file: `Marv-${version}.AppImage`,
+      path: `/releases/download/v${$version}/`,
+      file: `Marv-${$version}.AppImage`,
     },
     {
       title: "Source",
       icon: FaFileArchive,
       path: `/archive/`,
       color: "bg-gray-700",
-      file: `v${version}.zip`,
+      file: `v${$version}.zip`,
     },
     {
       title: "Source",
       icon: FaFileArchive,
       path: `/archive/`,
       color: "bg-gray-700",
-      file: `v${version}.tar.gz`,
+      file: `v${$version}.tar.gz`,
     },
   ];
 </script>
