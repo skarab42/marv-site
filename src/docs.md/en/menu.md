@@ -1,8 +1,4 @@
 - [Get started](/en/docs/get-started)
 
-  - [Install](/en/docs/get-started#install)
-  - [OBS](/en/docs/get-started#obs)
-
-- [Timeline](/en/docs/timeline)
-- [Panels](/en/docs/panels)
-- [Widgets](/en/docs/widgets)
+  - [Install OBS Websocket](/en/docs/get-started#install-obs-websocket)
+  - [Install the overlay in OBS](/en/docs/get-started#install-the-overlay-in-obs)

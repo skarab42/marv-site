@@ -1,8 +1,4 @@
-- [Pour commencer](/fr/docs/get-started)
+- [Démarrage rapide](/fr/docs/demarrage-rapide)
 
-  - [Installer](/fr/docs/get-started#installer)
-  - [OBS](/fr/docs/get-started#obs)
-
-- [Timeline](/fr/docs/timeline)
-- [Panneaux](/fr/docs/panels)
-- [Widgets](/fr/docs/widgets)
+  - [Installer l'overlay dans OBS](/fr/docs/demarrage-rapide#installer-loverlay-dans-obs)
+  - [Installer OBS Websocket](/fr/docs/demarrage-rapide#installer-obs-websocket)

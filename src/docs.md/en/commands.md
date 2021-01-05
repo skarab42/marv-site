@@ -1,3 +1,3 @@
-# Twitch
+# Commands
 
 ## Documentation comming soon...
