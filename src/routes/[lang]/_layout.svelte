@@ -38,10 +38,6 @@
   }
 </script>
 
-<svelte:head>
-  <base href="/marv-site/docs/" />
-</svelte:head>
-
 <div class="bg-gray-900 text-gray-300" style="{style}">
   <Nav items="{items}" segment="{segment}" on:openMenu="{openMenu}" />
   <main>

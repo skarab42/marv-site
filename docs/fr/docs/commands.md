@@ -1,3 +1,0 @@
-# Commands
-
-## Documentation comming soon...

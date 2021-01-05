@@ -12,6 +12,7 @@ const app = polka();
 app.get("/i18n/:ns/:key", missingKeyHandler);
 
 app.use(
+  "/marv-site",
   compression({ threshold: 0 }),
   sirv("static", { dev }),
   sapper.middleware()

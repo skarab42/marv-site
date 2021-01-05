@@ -1,1 +1,0 @@
-import{S as t,i as e,s}from"./client.eaa823d3.js";import{i as r}from"./i18next.61b8f30d.js";const a={en:"get-started",fr:"demarrage-rapide"};async function n(){const t=r.language,e=a[t];return this.redirect(302,`/${t}/docs/${e}`)}export default class extends t{constructor(t){super(),e(this,t,null,null,s,{})}}export{n as preload};

@@ -1,3 +1,0 @@
-# Widgets
-
-## Documentation comming soon...

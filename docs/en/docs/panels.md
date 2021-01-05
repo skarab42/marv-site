@@ -1,3 +1,0 @@
-# Panels
-
-## Documentation comming soon...
