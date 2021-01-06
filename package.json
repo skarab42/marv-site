@@ -6,6 +6,7 @@
     "watch": "sapper dev",
     "build": "sapper build",
     "export": "sapper export",
+    "move:export": "node ./scripts/moveExport.js",
     "start": "node __sapper__/build",
     "lint": "eslint ./src --fix",
     "prettify": "prettier --write ./src"
@@ -31,6 +32,7 @@
     "entities": "^2.1.0",
     "eslint": "^7.17.0",
     "eslint-plugin-svelte3": "^3.0.0",
+    "fs-extra": "^9.0.1",
     "github-buttons": "^2.14.1",
     "i18next": "^19.8.4",
     "prettier": "^2.2.1",
