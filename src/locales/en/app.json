@@ -10,7 +10,7 @@
   "tiles": {
     "timeline": {
       "title": "Animation timeline",
-      "text": "Create your animation..."
+      "text": "Create, edit and preview your animations."
     },
     "panels": {
       "title": "Panels",
@@ -26,11 +26,11 @@
     },
     "obs": {
       "title": "OBS",
-      "text": "Switch your scenes, mute, ..."
+      "text": "Switch your scenes, mute, ... Live and recording status."
     },
     "commands": {
       "title": "Commands",
-      "text": "Trigger animation on chat commands."
+      "text": "Trigger animation, change scene, play sound."
     }
   }
 }

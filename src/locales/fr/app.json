@@ -9,28 +9,28 @@
   },
   "tiles": {
     "timeline": {
-      "title": "Animation timeline",
-      "text": "Create your animation..."
+      "title": "Editeur d'animation",
+      "text": "Créez, modifiez et prévisualisez vos animations."
     },
     "panels": {
-      "title": "Panels",
-      "text": "Add as many panels as you want!"
+      "title": "Panneaux",
+      "text": "Ajoutez autant de panneaux que vous le souhaitez !"
     },
     "widgets": {
       "title": "Widgets",
-      "text": "Add as many widgets as you want!"
+      "text": "Ajoutez autant de widgets que vous le souhaitez !"
     },
     "twitch": {
       "title": "Twitch",
-      "text": "Handle almost all Twitch events, Follow, Sub, Raid, etc..."
+      "text": "Gérer presque tous les événements Twitch, Follow, Sub, Raid, etc..."
     },
     "obs": {
       "title": "OBS",
-      "text": "Switch your scenes, mute, ..."
+      "text": "Changez de scène, mettez en sourdine, ... Etat du direct et de l'enregistrement."
     },
     "commands": {
-      "title": "Commands",
-      "text": "Trigger animation on chat commands."
+      "title": "Commandes",
+      "text": "Déclenchez des animations, changez de scène, jouez du son sur !commande."
     }
   }
 }
