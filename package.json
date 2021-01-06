@@ -1,11 +1,11 @@
 {
   "name": "marv-site",
-  "description": "Marv site...",
+  "description": "Marv site builder",
   "version": "0.0.1",
   "scripts": {
     "watch": "sapper dev",
-    "build": "sapper build --legacy",
-    "export": "sapper export --legacy --basepath marv-site",
+    "build": "sapper build",
+    "export": "sapper export",
     "start": "node __sapper__/build",
     "lint": "eslint ./src --fix",
     "prettify": "prettier --write ./src"
