@@ -7,6 +7,8 @@
     "build": "sapper build",
     "export": "sapper export",
     "move:export": "node ./scripts/moveExport.js",
+    "deploy:hosting": "firebase deploy --only hosting",
+    "deploy": "yarn export && yarn move:export && yarn deploy:hosting",
     "start": "node __sapper__/build",
     "lint": "eslint ./src --fix",
     "prettify": "prettier --write ./src"
