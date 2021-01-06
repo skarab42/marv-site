@@ -1,6 +1,5 @@
 import { readable, writable } from "svelte/store";
-
-const pkg = { name: "marv", version: "0.16.0" };
+import pkg from "../../../marv/package.json";
 
 const repoURL = readable("https://github.com/skarab42/marv");
 const fingerprint = readable(`${pkg.name} v${pkg.version}`);
