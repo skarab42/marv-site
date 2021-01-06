@@ -42,10 +42,10 @@
         <HeroLink href="docs" label="menu.labels.docs" />
       </div>
       <div class="flex flex-wrap space-x-2 items-center justify-center">
-        <!-- <GithubButton {...follow} />
+        <GithubButton {...follow} />
         <GithubButton {...start} />
         <GithubButton {...fork} />
-        <GithubButton {...sponsors} /> -->
+        <GithubButton {...sponsors} />
       </div>
     </div>
   </div>
