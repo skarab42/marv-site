@@ -10,6 +10,6 @@
     const lang = i18next.language;
     const page = pages[lang];
 
-    return this.redirect(302, `/${lang}/docs/${page}`);
+    return this.redirect(302, `/${lang}/docs/${page}/`);
   }
 </script>

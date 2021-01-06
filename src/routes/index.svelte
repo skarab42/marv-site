@@ -4,6 +4,6 @@
 
   export async function preload() {
     const lang = i18next.language || config.fallbackLng;
-    return this.redirect(302, `/${lang}/home`);
+    return this.redirect(302, `/${lang}/home/`);
   }
 </script>

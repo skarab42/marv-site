@@ -1,12 +1,6 @@
 {
   "hosting": {
     "public": "export",
-    "ignore": ["firebase.json", "**/.*", "**/*.md", "**/node_modules/**"],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
 }
