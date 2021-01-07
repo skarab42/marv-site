@@ -2,12 +2,6 @@
 
 Avant de commencer, vous devez [télécharger](/fr/download) Marv et l'installer.
 
-## Installer OBS Websocket
-
-Si vous voulez contrôler OBS avec Marv (changement de scène, mute, etc...), vous devez installer OBS Websocket.
-
-**Téléchargement**: [Windows](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-Windows-Installer.exe) | [Linux](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-1_amd64.deb) | [macOS](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-macOS.pkg)
-
 ## Installer l'overlay dans OBS
 
 Pour pouvoir afficher vos animations sur votre live vous devez ajouter une source navigateur dans OBS avec l'adresse de l'overlay de Marv.
@@ -24,3 +18,9 @@ Pour pouvoir afficher vos animations sur votre live vous devez ajouter une sourc
 4. Il faut également cocher les deux cases:
    [✔] Désactiver la source quand elle n'est pas visible.
    [✔] Rafraîchir le navigateur lorsque la scène devient active.
+
+## Installer OBS Websocket
+
+Si vous voulez contrôler OBS avec Marv (changement de scène, mute, etc...), vous devez installer [OBS Websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
+
+**Téléchargement**: [Windows](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-Windows-Installer.exe) | [Linux](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-1_amd64.deb) | [macOS](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-macOS.pkg)
