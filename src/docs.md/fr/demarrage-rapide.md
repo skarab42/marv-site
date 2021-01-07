@@ -24,3 +24,13 @@ Pour pouvoir afficher vos animations sur votre live vous devez ajouter une sourc
 Si vous voulez contrôler OBS avec Marv (changement de scène, mute, etc...), vous devez installer [OBS Websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
 
 **Téléchargement**: [Windows](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-Windows-Installer.exe) | [Linux](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-1_amd64.deb) | [macOS](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-macOS.pkg)
+
+## Recommandations
+
+**Démarer Marv _avant_ de démarrer OBS.**
+
+Dans le cas contraire, le message d'erreur suivant peut apparaitre.
+![overlay non connecter](/assets/images/docs/overlay_disconnected_message.png)
+
+Pour reconnecter l'overlay, désactivez et réactivez la visibilité de la source.
+![overlay non connecter](/assets/images/docs/toggle_scene_visibility.png)

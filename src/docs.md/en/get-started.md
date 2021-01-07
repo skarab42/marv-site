@@ -19,10 +19,20 @@ To be able to display your animations on your live you need to add a browser sou
    [✔] Disable the source when it is not visible.
    [✔] Refresh the browser when the scene becomes active.
 
-Translated with [DeepL](http://www.DeepL.com/Translator) (free version)
-
 ## Install OBS Websocket
 
 If you want to control OBS with Marv (scene change, mute, etc...), you need to install [OBS Websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
 
 **Download**: [Windows](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-Windows-Installer.exe) | [Linux](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-1_amd64.deb) | [macOS](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-macOS.pkg)
+
+## Recommendations
+
+**Start Marv _before_ starting OBS.**
+
+Otherwise, the following error message may appear.
+![overlay not connected](/assets/images/docs/overlay_disconnected_message.png)
+
+To reconnect the overlay, disable and re-enable source visibility.
+![overlay not connected](/assets/images/docs/toggle_scene_visibility.png)
+
+Translated with [DeepL](http://www.DeepL.com/Translator) (free version)
