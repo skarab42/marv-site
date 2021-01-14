@@ -2,6 +2,7 @@
   "name": "marv-site",
   "description": "Marv site builder",
   "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "watch": "sapper dev",
     "build": "sapper build",
@@ -34,6 +35,7 @@
     "entities": "^2.1.0",
     "eslint": "^7.17.0",
     "eslint-plugin-svelte3": "^3.0.0",
+    "firebase-tools": "^9.2.0",
     "fs-extra": "^9.0.1",
     "github-buttons": "^2.14.1",
     "i18next": "^19.8.4",
