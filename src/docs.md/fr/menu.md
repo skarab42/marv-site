@@ -21,6 +21,6 @@
 - [Actions](/fr/docs/actions)
   - [Liste des actions](/fr/docs/actions#liste-des-actions)
   - [Déclenchements](/fr/docs/actions#déclenchements)
-  - [Evenements](/fr/docs/actions#evenements)
+  - [Évenements](/fr/docs/actions#evenements)
 
 - [Timeline](/fr/docs/timeline)
