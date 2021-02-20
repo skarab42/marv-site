@@ -13,7 +13,7 @@ Permet d'afficher les informations suivantes:
 - Temps passé en enregistrement
 - Temps passé en live (streaming)
 - FPS
-- Mémoire vive (RAM) consommé
+- Mémoire vive (RAM) consommée
 - Pourcentage CPU utilisé
 - Nombre de viewers
 
@@ -22,7 +22,7 @@ Permet de connecter son compte Twitch pour avoir accès au chat et au PubSub (é
 
 ## Paramètres
 - Choix de la langue (en/fr/es)
-- Ouvrir Marv en mode réduit (dans la barre des taches)
+- Ouvrir Marv en mode réduit (dans la barre des tâches)
   - décoché par défaut
 - Connecter OBS au démarrage de Marv
   - décoché par défaut
