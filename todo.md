@@ -1,41 +1,43 @@
 french :
 
-actions = ok
+  - actions = ok
 
-demarrage rapide = ok
+  - demarrage rapide = ok
 
-menu = ok
+  - menu = ok
 
-panneaux = ok
+  - panneaux = ok
 
-presentation de marv = ok
+  - presentation de marv = ok
 
-widget = ok
+  - widget = ok
+
+  - timeline = NOPE
 
 
 
-timeline = NOPE = TODO 1
+=> timeline = NOPE = TODO 1
 
 
 ------------------------
 
 english :
 
-commands : NOPE
+  - commands : NOPE
 
-get started : ok
+  - get started : ok
 
-menu : ok
+  - menu : ok
 
-obs : NOPE
+  - obs : NOPE  (???????  c'est quoi cette page ??????)
 
-panels : NOPE
+  - panels : NOPE
 
-timeline : NOPE
+  - timeline : NOPE
 
-twitch : NOPE
+  - twitch : NOPE  (???????  c'est quoi cette page ??????)
 
-widget : NOPE
+  - widget : NOPE
 
 
 ----------------------------
