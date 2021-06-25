@@ -1,46 +1,64 @@
-french :
+démarrage rapide :
 
-  - actions = ok
+rafraichir la page ????????  => obs overlay (source navigateur)
 
-  - demarrage rapide = ok
 
-  - menu = ok
+configuration du websocket dans obs : outils => paramètres du serveur Websockets
 
-  - panneaux = ok
-
-  - presentation de marv = ok
-
-  - widget = ok
-
-  - timeline = NOPE
+si pendant l'installation du plugin Websockets pour obs on a pas paramétré de mot de passe,
+penser à déselectionner "activer l'authentification"
 
 
 
-=> timeline = NOPE = TODO 1
+-----------------------------------
 
 
-------------------------
+panneaux :
 
-english :
+ajouter une présentation : 
+la zone grise intermédiaire en haut, sous le menu rose (Mode Edition) contient les panneaux
+la zone grise foncée en bas contient les buttons du panneau
+(rajouter un screenshot)
 
-  - commands : NOPE
+menu => menu contextuel
 
-  - get started : ok
+clic droit dans la liste des panneaux ou des widgets / boutons  =>
+cliquer dans la fenêtre du logiciel dans la zone grise marquée "clique droit pour afficher le menu"
 
-  - menu : ok
+déplacer un bouton :
+sélectionner l'option "Éditer la grille" dans le menu contextuel => 
+une fois la création achevée, cliquez sur terminé, puis clique droit sur un emplacement vide pour faire apparaitre la grille
+n'oubliez pas de recliquer sur terminé à la fin de l'édition
 
-  - obs : NOPE  (???????  c'est quoi cette page ??????)
+déplacer un bouton :
+sélectionner l'option "Éditer la grille" dans le menu contextuel => 
+une fois la création achevée, cliquez sur terminé, puis clique droit sur un emplacement vide pour faire apparaitre la grille
+n'oubliez pas de recliquer sur terminé à la fin de l'édition
 
-  - panels : NOPE
+modifier la taille d'un bouton :
+sélectionner l'option "Éditer la grille" dans le menu contextuel => 
+une fois la création achevée, cliquez sur terminé, puis clique droit sur un emplacement vide pour faire apparaitre la grille
+n'oubliez pas de recliquer sur terminé à la fin de l'édition
 
-  - timeline : NOPE
+modifier l'apparence du bouton:
+=> améliorer la présentation des options
 
-  - twitch : NOPE  (???????  c'est quoi cette page ??????)
+---------------------------------------------------------------
 
-  - widget : NOPE
+actions :
+
+    Anime | Timeline
+        Titre pas clair :
+        Animation avec une timeline
+        => animation 
 
 
-----------------------------
+    commandes :
+        Variables : les x mots après la commande sont injectées dans les x variables définies dans ce champ =>
+        formulation et mise en page YURKK
 
-todolist :
-- timeline FR
+      pour éditer la commande, cliquez d'abord sur terminer pour sortir du mode édition
+
+    évenements : compléter la liste et améliorer la mise en page
+
+
