@@ -54,6 +54,8 @@ actions :
         - formulation et mise en page YURKK
         - pour éditer la commande, cliquez d'abord sur terminer pour sortir du mode édition
 
+        - commandes ne marche pas pour afficher un message dans le chat ?????
+
    - évenements : compléter la liste et améliorer la mise en page
 
 
