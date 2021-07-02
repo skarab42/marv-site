@@ -110,15 +110,15 @@ Spécifie quand l'action doit être exécutée
 **Pour les streamers affiliés / partenaires seulement**
 - Bits : quand un utilisateur envoi des bits
 - Bits badge upgrade : quand un utilisateur améliore son badge en envoyant des bits
-- Community pay forward : ???
+- Community pay forward : quand un utilisateur offre en retour un abonnement qui lui a été offert par la communauté
 - Community sub : quand un utilisateur offre des abonnements à d'autres utilisateurs
 - Gift paid upgrade : quand un utilisateur a reçu un abonnement en cadeau qu'il le prolonge
 - Prime community gift : quand un utilisateur offre un abonnement Prime à un autre utilisateur
-- Prime paid upgrade : quand un utilisateur a un abonnement Prime qu'il le prolonge
+- Prime paid upgrade : quand un utilisateur prolonge son abonnement prime
 - Redemption : quand un utilisateur réclame une récompense avec ses points de chaîne
-- Reward gift : ???
-- Ritual : ???
-- Standard pay forward : ???
+- Reward gift : quand un utilisateur offre des récompenses lors d'un événement spécial
+- Ritual : quand un rituel se produit (exemple : nouvel arrivant écrit pour la première fois dans le chat)
+- Standard pay forward : quand un utilisateur paie en retour un abonnement qui lui a été offert par un utilisateur
 - Sub : quand un utilisateur achète un abonnement
 - Sub extend : quand un utilisateur prolonge son abonnement
 - Sub gift : quand un utilisateur offre un abonnement à un autre utilisateur
