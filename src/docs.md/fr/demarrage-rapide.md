@@ -25,6 +25,10 @@ Si vous voulez contrôler OBS avec Marv (changement de scène, mute, etc...), vo
 
 **Téléchargement**: [Windows](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-Windows-Installer.exe) | [Linux](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-1_amd64.deb) | [macOS](https://github.com/Palakis/obs-websocket/releases/download/4.8.0/obs-websocket-4.8.0-macOS.pkg)
 
+Pour configurer le plugin websocket dans obs : aller dans **outils** => **paramètres du serveur Websockets**.
+
+Si vous n''avez pas paramétré de mot de passe pendant l'installation du plugin Websockets, pensez à déselectionner *activer l'authentification* dans les paramètres du serveur websockets.
+
 ## Recommandations
 
 **Démarer Marv _avant_ de démarrer OBS.**
@@ -34,3 +38,8 @@ Dans le cas contraire, le message d'erreur suivant peut apparaitre.
 
 Pour reconnecter l'overlay, désactivez et réactivez la visibilité de la source.
 ![overlay non connecter](/assets/images/docs/toggle_scene_visibility.png)
+
+
+**Noubliez pas de vous connecter à Twitch dans Marv**
+
+C'est indispensable pour avoir accès à certains fonctionnalités (chat, commandes, etc).
