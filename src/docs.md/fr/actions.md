@@ -28,7 +28,7 @@ Si vous cliquez sur le bouton alors vous activez la scène qui n'était pas acti
 - Déclenchement : [voir la liste](/fr/docs/actions#declenchements)
 - Événement : [voir la liste](/fr/docs/actions#evenements)
 
-### Anime | Timeline
+### Animation
 Animation avec une timeline
 #### Paramètres
 - Éditeur de timeline : [voir la documentation](/fr/docs/timeline)
@@ -72,12 +72,13 @@ Pour chaque commande vous pouvez :
 - modifier ses paramètres
 - supprimer la commande
 #### Paramètres de la commande
-- Commande : la fin du texte de la commande qui sera complété par le préfixe de votre widget
-- Variables : les `x` mots après la commande sont injectées dans les `x` variables définies dans ce champ
-  - exemple :  
-    La commande `!position` prends deux paramètres x et y.  
+- Commande : le nom de la commande, qui sera complété par le préfixe de votre widget
+- Variables : les mots ajoutés après la commande
+  - exemple : 
+    *!position 12 27*
+    La commande `!position` est suivies de deux mots : 12 et 27.  
     Dans variables je mets `x y`.
-    Quand je reçois le message `!position 12 56` alors `x` contient `12` et `y` contient `56`
+    Quand je reçois le message `!position 12 27` alors `x` contient `12` et `y` contient `56`
 - Description : description affichée à côté de la commande dans le widget
 - Cooldown : nombre de secondes avant de pouvoir réutiliser la commande
 - Message : message qui sera envoyé dans le chat
