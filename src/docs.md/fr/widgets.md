@@ -1,6 +1,6 @@
 # Widgets / Boutons
 
-Il n'y a pas de limites sur le nombre de widgets / boutons.  
+Il n'y a pas de limites au nombre de widgets / boutons. 
 
 ## Création d'un bouton (vide)
 1. clic droit dans la liste des panneaux ou des widgets / boutons
@@ -50,35 +50,14 @@ L'application des modifications se fait directement sans passer par une validati
 1. clic droit dans la liste des panneaux ou des widgets / boutons
 2. sélectionner l'option **"Éditer l'apparence"** dans le menu contextuel
 3. une pop-in apparaitra pour présenter les différentes options:
-   - titre : titre du bouton affiché
+   - titre du bouton affiché
      - taille : taille du texte en pixel
      - marge : taille des marges (haut, droite, bas, gauche) en pixel
-     - alignement : alignement du texte
-       - gauche
-       - centre
-       - droite
-     - position : position du titre dans le bouton
-       - haut
-       - bas
-   - bordures : permet de rajouter des bordures prédéfinies
-     - position de la bordure
-       - tous
-       - haut
-       - gauche
-       - droite
-       - bas
-       - haut gauche
-       - haut droite
-       - bas gauche
-       - bas droite
-     - taille de la bordure
-       - 2px
-       - 4px
-       - 8px
-       - 16px
-       - 42px
-       - 50%
-       - 100%
-   - couleur de fond : selection de la couleur avec un color picker
-   - image de fond : sélection d'une image dans le gestionnaire d'image
+     - alignement : alignement du texte (gauche, centre ou droite)
+     - position : position du titre dans le bouton (haut ou bas)
+   - bordures du widget
+     - position de la bordure (tous, haut, gauche, etc)
+     - taille de la bordure 
+   - couleur de fond (cliquer pour faire apparaitre un color picker)
+   - image de fond (cliquer pour choisir un fichier)
 4. cliquer sur la croix de la pop-in pour fermer

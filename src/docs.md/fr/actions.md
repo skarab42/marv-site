@@ -28,7 +28,7 @@ Si vous cliquez sur le bouton alors vous activez la scène qui n'était pas acti
 - Déclenchement : [voir la liste](/fr/docs/actions#declenchements)
 - Événement : [voir la liste](/fr/docs/actions#evenements)
 
-### Anime | Timeline
+### Animation
 Animation avec une timeline
 #### Paramètres
 - Éditeur de timeline : [voir la documentation](/fr/docs/timeline)
@@ -72,12 +72,13 @@ Pour chaque commande vous pouvez :
 - modifier ses paramètres
 - supprimer la commande
 #### Paramètres de la commande
-- Commande : la fin du texte de la commande qui sera complété par le préfixe de votre widget
-- Variables : les `x` mots après la commande sont injectées dans les `x` variables définies dans ce champ
-  - exemple :  
-    La commande `!position` prends deux paramètres x et y.  
+- Commande : le nom de la commande, qui sera complété par le préfixe de votre widget
+- Variables : les mots ajoutés après la commande
+  - exemple : 
+    *!position 12 27*
+    La commande `!position` est suivies de deux mots : 12 et 27.  
     Dans variables je mets `x y`.
-    Quand je reçois le message `!position 12 56` alors `x` contient `12` et `y` contient `56`
+    Quand je reçois le message `!position 12 27` alors `x` contient `12` et `y` contient `56`
 - Description : description affichée à côté de la commande dans le widget
 - Cooldown : nombre de secondes avant de pouvoir réutiliser la commande
 - Message : message qui sera envoyé dans le chat
@@ -109,15 +110,15 @@ Spécifie quand l'action doit être exécutée
 **Pour les streamers affiliés / partenaires seulement**
 - Bits : quand un utilisateur envoi des bits
 - Bits badge upgrade : quand un utilisateur améliore son badge en envoyant des bits
-- Community pay forward : ???
+- Community pay forward : quand un utilisateur offre en retour un abonnement qui lui a été offert par la communauté
 - Community sub : quand un utilisateur offre des abonnements à d'autres utilisateurs
 - Gift paid upgrade : quand un utilisateur a reçu un abonnement en cadeau qu'il le prolonge
 - Prime community gift : quand un utilisateur offre un abonnement Prime à un autre utilisateur
-- Prime paid upgrade : quand un utilisateur a un abonnement Prime qu'il le prolonge
+- Prime paid upgrade : quand un utilisateur prolonge son abonnement prime
 - Redemption : quand un utilisateur réclame une récompense avec ses points de chaîne
-- Reward gift : ???
-- Ritual : ???
-- Standard pay forward : ???
+- Reward gift : quand un utilisateur offre des récompenses lors d'un événement spécial
+- Ritual : quand un rituel se produit (exemple : nouvel arrivant écrit pour la première fois dans le chat)
+- Standard pay forward : quand un utilisateur paie en retour un abonnement qui lui a été offert par un utilisateur
 - Sub : quand un utilisateur achète un abonnement
 - Sub extend : quand un utilisateur prolonge son abonnement
 - Sub gift : quand un utilisateur offre un abonnement à un autre utilisateur

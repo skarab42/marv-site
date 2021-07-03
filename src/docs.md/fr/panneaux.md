@@ -1,6 +1,12 @@
 # Panneaux
 
-Il n'y a pas de limites sur le nombre de panneaux mais ils seront toujours affichés sur la même ligne.
+![pannelsVersusBouttons](/assets/images/docs/panels_versus_buttons.png)
+
+Les menus des panneaux se trouve en haut, dans la zone grise.
+
+Les boutons du panneau sélectionnés se trouvent dans la grande zone centrale.
+
+Il n'y a pas de limites au nombre de panneaux mais ils seront toujours affichés sur la même ligne.
 
 ## Création d'un panneau
 Une action vide est automatiquement créée lors de l'ajout d'un panneau.
