@@ -30,3 +30,8 @@ how to install
   (instruction d'installaiton ici : https://obsproject.com/wiki/install-instructions#linux )
   
   -----------------------------------------
+  
+  Installer OBS Websocket
+
+Pour configurer le plugin websocket dans obs : aller dans outils => paramètres du serveur Websockets. 
+=> Faut-il mettre le port 4242 ou laisser le port 4444 ? 
