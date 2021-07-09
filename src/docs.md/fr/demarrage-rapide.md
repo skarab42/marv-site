@@ -18,6 +18,9 @@ Pour pouvoir afficher vos animations sur votre live vous devez ajouter une sourc
 4. Il faut également cocher les deux cases:
    [✔] Désactiver la source quand elle n'est pas visible.
    [✔] Rafraîchir le navigateur lorsque la scène devient active.
+   
+5. Assurez vous de placer correctement l'overlay dans votre scène et notez ses dimensions, elles vous permettront de paramétrer correctement vos animations plus tard.
+
 
 ## Installer OBS Websocket
 
