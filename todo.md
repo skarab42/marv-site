@@ -1,5 +1,7 @@
 démarrage rapide :
 
+Ajout installation windows et linux
+
 rafraichir la page ????????  => obs overlay (source navigateur)
 
 
