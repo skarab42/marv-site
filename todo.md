@@ -18,7 +18,7 @@ how to install
 
         - 4) clique sur l'appImage pour lancer Marv
 
-      En ligne de commande :
+      - En ligne de commande :
         mkdir marv
         mv Marv-x.y.z.AppImage marv
         cd marv
