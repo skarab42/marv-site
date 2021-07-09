@@ -26,5 +26,7 @@ how to install
 
   Attention, pour pouvoir utiliser Marv, vous devez utiliser au minimum OBS 25.0.7, afin d'avoir le support des sources navigateur
   
+  Pour être sûr d'avoir la dernière version, ajoutez le repository officiel suivant : sudo add-apt-repository ppa:obsproject/obs-studio
+  (instruction d'installaiton ici : https://obsproject.com/wiki/install-instructions#linux )
   
   -----------------------------------------
