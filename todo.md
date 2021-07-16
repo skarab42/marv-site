@@ -8,3 +8,9 @@ Créer une nouvelle source navigateur :
   
 Nomez la comme vous le désirez. (on conserve avec l'image actuelle)
 fichier = OBS browser source
+
+
+--------
+
+Page démarrage rapide :
+Juste vérifier si le screen rend bien pour la connection à twitch :)
