@@ -78,7 +78,7 @@ Si vous n''avez pas paramétré de mot de passe pendant l'installation du plugin
 
 ## Recommandations
 
-**Démarer Marv _avant_ de démarrer OBS.**
+**Démarrer Marv _avant_ de démarrer OBS**
 
 Dans le cas contraire, le message d'erreur suivant peut apparaitre.
 ![overlay non connecter](/assets/images/docs/overlay_disconnected_message.png)
@@ -87,6 +87,6 @@ Pour reconnecter l'overlay, désactivez et réactivez la visibilité de la sourc
 ![overlay non connecter](/assets/images/docs/toggle_scene_visibility.png)
 
 
-**Noubliez pas de vous connecter à Twitch dans Marv **
+**Ne pas oublier de se connecter à Twitch dans Marv**
 
 Au lancement de Marv, connectez vous à votre compte twitch, c'est indispensable pour avoir accès à certaines fonctionnalités (chat, commandes, etc).
