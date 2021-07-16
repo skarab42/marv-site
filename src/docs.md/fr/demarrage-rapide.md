@@ -91,5 +91,5 @@ Pour reconnecter l'overlay, désactivez et réactivez la visibilité de la sourc
 
 Au lancement de Marv, connectez vous à votre compte twitch. C'est indispensable pour avoir accès à certaines fonctionnalités (chat, commandes, etc).
 
-![Marv Connection Twitch](/assets/images/docs/Marv_Connection_Twitch_.png)
+![Marv Connection Twitch](/assets/images/docs/connection_twitch.png)
 
