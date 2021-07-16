@@ -17,12 +17,9 @@ pour ajouter des fichiers (audio, video, etc) et les intégrer plus tard, à l'a
 
 ### videos / Images
 
-Pour un affichage cohérent entre Marv et OBS, il faut mettre l'animation aux même dimensions que l'overlay marv dans obs (taille de l'animation).
-
-
 > Pour un affichage cohérent entre Marv et OBS, il faut mettre l'animation aux même dimensions que l'overlay marv dans obs (cf screenshot ci dessous).
 
-![dimensions](C:\Users\Megaport\Pictures\Capture.PNG)
+   ![dimensions]()
 
 ### Audio
 
