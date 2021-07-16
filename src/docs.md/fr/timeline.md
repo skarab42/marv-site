@@ -10,10 +10,11 @@ clique droit sur l'animation => éditer l'action => ouvrir timeline
 
 ## fichiers
 
-pour ajouter des fichiers (audio, video, etc) et les intégrer plus tard, à l'animation, cliquer sur le bouton d'upload ( image de la flèche d'upload bleue en bas, tout à gauche)
+Pour ajouter des fichiers (audio, video, etc) et les intégrer plus tard, à l'animation, cliquer sur le bouton d'upload ( image de la flèche d'upload bleue en bas, tout à gauche)
 
    ![details d'un fichier](/assets/images/docs/timeline_file_details.png)
 
+Vous pouvez ensuite change leur durée d'apparition dans la partie timeline avec un clique long sur les poignées de la ligne de temps. Vous pouvez aussi éditer les propriétés du fichier, sa taille, son agencement en parcourant les propriétés (cf screenshot ce dessus). 
 
 ### videos / Images
 
