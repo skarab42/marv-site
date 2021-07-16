@@ -1,6 +1,39 @@
 # Démarrage rapide
 
-Avant de commencer, vous devez [télécharger](/fr/download) Marv et l'installer.
+## Installer Marv
+
+### Windows :
+Vous pouvez télécharger la dernière version de Marv [ici](https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-Setup-1.7.0.exe).
+
+Cliquez sur l'installateur et laissez vous guider.
+
+### Linux :
+
+Vous pouvez télécharger la dernière version de Marv [ici](https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-1.7.0.AppImage). Attention, pour pouvoir utiliser Marv, vous devez utiliser au minimum OBS 25.0.7, afin d'avoir le support des sources navigateur.  Pour être sûr d'avoir la dernière version, ajoutez le repository officiel suivant : 
+
+```bash
+sudo add-apt-repository ppa:obsproject/obs-studio
+```
+
+(Instructions d'installation détaillées [ici](https://obsproject.com/wiki/install-instructions#linux).
+
+
+#### Installation en ligne de commande :
+
+```bash
+$  mkdir marv
+$  mv Marv-x.y.z.AppImage marv
+$  cd marv
+$  chmod u+x Marv-x.y.z.AppImage
+```
+
+#### Installation graphique :
+
+1. télécharger appImage - linux (https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-1.7.0.AppImage)
+2. mettre l'image dans dossier dédié
+3. clic droit sur l'appimage -> propriétés -> Permissions -> Cocher Autoriser l'exécution du fichier comme un programme (en ligne de commande, chmod 755 Marv-1.7.0.AppImage)
+4. clique sur l'appImage pour lancer Marv
+
 
 ## Installer l'overlay dans OBS
 
