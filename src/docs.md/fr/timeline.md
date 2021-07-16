@@ -19,9 +19,8 @@ pour ajouter des fichiers (audio, video, etc) et les intégrer plus tard, à l'a
 
 > Pour un affichage cohérent entre Marv et OBS, il faut mettre l'animation aux même dimensions que l'overlay marv dans obs (cf screenshot ci dessous).
 
-   ![dimensions]()
+   ![dimensions](/assets/images/docs/timeline-dimensions.png)
 
 ### Audio
 
-> Pour régler le volume sonore, cliquez sur le fichier puis sur Attributs et changez la valeur du champ Volume
-
+> Pour régler le volume sonore, cliquez sur le fichier puis sur Attributs et changez la valeur du champ Volume.
