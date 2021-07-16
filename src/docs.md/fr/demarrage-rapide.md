@@ -37,13 +37,13 @@ Vous pouvez lancer Marv en ligne de commande avec :
 
 #### Installation graphique :
 
-1. télécharger appImage - linux (https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-1.7.0.AppImage)
+1. télécharger l'appImage ![ici](https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-1.7.0.AppImage)
 2. mettre l'image dans dossier dédié
-3. clic droit sur l'appimage -> propriétés -> Permissions -> Cocher Autoriser l'exécution du fichier comme un programme (en ligne de commande, chmod 755 Marv-1.7.0.AppImage)
+3. clic droit sur l'appimage -> propriétés -> Permissions -> Cocher `Autoriser l'exécution du fichier comme un programme`
 4. cliquer sur l'appImage pour lancer Marv
 
 
-Pour créer un raccourci : sur le bureau (par exemple) faire clic droit -> créer un nouveau lanceur ici. Puis, le nommer Marv et chercher le lien vers le fichier AppImage.
+Pour créer un raccourci sur le bureau (par exemple) faire clic droit -> créer un nouveau lanceur ici. Puis, le nommer Marv et chercher le lien vers le fichier AppImage.
 
 
 ## Installer l'overlay dans OBS
