@@ -17,7 +17,7 @@ Vous pouvez télécharger la dernière version de Marv [ici](https://github.com/
 sudo add-apt-repository ppa:obsproject/obs-studio
 ```
 
-(Instructions d'installation détaillées [ici](https://obsproject.com/wiki/install-instructions#linux).
+(Instructions d'installation détaillées [ici](https://obsproject.com/wiki/install-instructions#linux)).
 
 
 #### Installation en ligne de commande :
