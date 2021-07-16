@@ -28,6 +28,14 @@ how to install
   
   Pour être sûr d'avoir la dernière version, ajoutez le repository officiel suivant : sudo add-apt-repository ppa:obsproject/obs-studio
   (instruction d'installaiton ici : https://obsproject.com/wiki/install-instructions#linux )
+  -----------------------------------------
+  Partie Installer l'overlay dans OBS :
+  - Pour ajouter une source navigateur[..] (on conserve cette partie) 
+(Porposition de modification ) :
+- Créer une nouvelle source navigateur : (capture en cours)
+  - 
+  - Nomez la comme vous le désirez. (on conserve avec l'image actuelle)
+OBS browser source
   
   -----------------------------------------
   
