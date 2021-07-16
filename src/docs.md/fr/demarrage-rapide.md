@@ -42,6 +42,10 @@ Vous pouvez lancer Marv en ligne de commande avec :
 3. clic droit sur l'appimage -> propriétés -> Permissions -> Cocher Autoriser l'exécution du fichier comme un programme (en ligne de commande, chmod 755 Marv-1.7.0.AppImage)
 4. cliquer sur l'appImage pour lancer Marv
 
+
+Pour créer un raccourci : sur le bureau (par exemple) faire clic droit -> créer un nouveau lanceur ici. Puis, le nommer Marv et chercher le lien vers le fichier AppImage.
+
+
 ## Installer l'overlay dans OBS
 
 Pour pouvoir afficher vos animations sur votre live vous devez ajouter une source navigateur dans OBS avec l'adresse de l'overlay de Marv.
