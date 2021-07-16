@@ -14,7 +14,9 @@ Pour ajouter des fichiers (audio, video, etc) et les intégrer plus tard, à l'a
 
    ![details d'un fichier](/assets/images/docs/timeline_file_details.png)
 
-Vous pouvez ensuite change leur durée d'apparition dans la partie timeline avec un clique long sur les poignées de la ligne de temps. Vous pouvez aussi éditer les propriétés du fichier, sa taille, son agencement en parcourant les propriétés (cf screenshot ce dessus). 
+Vous pouvez ensuite changer leur durée d'apparition dans la partie timeline avec un clic long sur les poignées de la ligne de temps. Vous pouvez aussi éditer les propriétés du fichier, sa taille, son agencement en parcourant les `propriétés du fichier` (cf screenshot ci dessus). 
+
+Vous pouvez tester le résultat en cliquant sur TEST, en haut à gauche.
 
 ### videos / Images
 
