@@ -14,3 +14,9 @@ fichier = OBS browser source
 
 Page démarrage rapide :
 Juste vérifier si le screen rend bien pour la connection à twitch :)
+
+
+Timeline
+--------
+
+pour supprimer une clé : double click droit (si si ..... )
