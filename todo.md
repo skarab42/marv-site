@@ -24,3 +24,8 @@ pour supprimer une clé : double click droit (si si ..... )
 
 => bug à reproduire + issue à créer chez skarab42/marv
 (voir la vod du 18/07 vers 13 heures pour regarder skarab produire le bug et noter le process de reproduction)
+
+
+--------------
+Expliquer comment relancer Marv !!!
+=> Au démarrage dire qu'il y a une petite icone en bas à droite qu'on peut kill  pour relancer Marv
