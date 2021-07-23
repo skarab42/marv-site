@@ -37,3 +37,11 @@ Rajouter des images pour illustrer la partie action (permet de mieux comprendre 
 => Il manque des exemples en image pour illustrer les propos. 
 exemple : le nom de la commande, qui sera complété par le préfixe de votre widget => Mettre une image pour illustrer 
 [Exemple](/static/assets/images/docs/Marv_Creation_Commande.png)
+
+Détail pas à pas de l'ajout d'une commande à rajouter :
+1) Ajouter le bouton + image à charger
+2) Clic droit, ajouter action + image à charger
+3) Mettre le caractère d'exécutiuon des commandes (plusieurs caractères à la suite sont possibles) + image à charger
+4) Pour ajouter une nouvelle commande, mettre le texte correspondant à la nouvelle commande dans la textebox et appuyer sur ajouter + image
+5) Une fois ajouté, configurer la commande en plaçant la souris sur le menu de commande (  = les trois points) et sélectionner l'édition ( le petit crayon) + image à charger 
+6) Une nouvelle fenêtre apparaît ( insérer image de la nouvelle fenêtre avec description des éléments => reprendre les descriptions  Paramètres de la commande )
