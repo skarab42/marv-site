@@ -36,3 +36,4 @@ Action :
 Rajouter des images pour illustrer la partie action (permet de mieux comprendre de quoi on parle :) ) 
 => Il manque des exemples en image pour illustrer les propos. 
 exemple : le nom de la commande, qui sera complété par le préfixe de votre widget => Mettre une image pour illustrer 
+[Exemple](/static/assets/images/docs/Marv_Creation_Commande.png)
