@@ -29,3 +29,8 @@ pour supprimer une clé : double click droit (si si ..... )
 --------------
 Expliquer comment relancer Marv !!!
 => Au démarrage dire qu'il y a une petite icone en bas à droite qu'on peut kill  pour relancer Marv
+
+
+Action :
+
+Rajouter des images pour illustrer la partie action (permet de mieux comprendre de quoi on parle :) ) 
