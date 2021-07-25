@@ -45,3 +45,7 @@ Détail pas à pas de l'ajout d'une commande à rajouter :
 4) Pour ajouter une nouvelle commande, mettre le texte correspondant à la nouvelle commande dans la textebox et appuyer sur ajouter + image
 5) Une fois ajouté, configurer la commande en plaçant la souris sur le menu de commande (  = les trois points) et sélectionner l'édition ( le petit crayon) + image à charger 
 6) Une nouvelle fenêtre apparaît ( insérer image de la nouvelle fenêtre avec description des éléments => reprendre les descriptions  Paramètres de la commande )
+
+
+---------
+Ajout de la nouvelle fonctionnalité de la v1.9.0 : utilsation de variable aléatoire 
