@@ -48,4 +48,6 @@ Détail pas à pas de l'ajout d'une commande à rajouter :
 
 
 ---------
-Ajout de la nouvelle fonctionnalité de la v1.9.0 : utilsation de variable aléatoire 
+Ajouter un texte explicatif de comment utiliser la nouvelle fonctionnalité de la v1.9.0 : utilsation de variable aléatoire 
+---------
+Explication sur les notifications utilisateurquand ça bug (Ajout dans la v1.8.0) 
