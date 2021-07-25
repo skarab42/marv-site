@@ -48,6 +48,9 @@ Détail pas à pas de l'ajout d'une commande à rajouter :
 
 
 ---------
-Ajouter un texte explicatif de comment utiliser la nouvelle fonctionnalité de la v1.9.0 : utilsation de variable aléatoire 
+Ajouter un texte explicatif de comment utiliser les nouvelles fonctionnalités de la v1.9.0 : 
+- utilsation d'un random pour randomiser des actions
+- Possibilité de "await" une réponse : permet de récupérer des informations (exemple : les informations d'un utilisateur , comme sa bio ) et de répondre dans le chat uniquement une fois que la réponse a été récupéré
+- Possibilité d'écrire des commandes en js directement
 ---------
 Explication sur les notifications utilisateurquand ça bug (Ajout dans la v1.8.0) 
