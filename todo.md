@@ -53,4 +53,8 @@ Ajouter un texte explicatif de comment utiliser les nouvelles fonctionnalités d
 - Possibilité de "await" une réponse : permet de récupérer des informations (exemple : les informations d'un utilisateur , comme sa bio ) et de répondre dans le chat uniquement une fois que la réponse a été récupéré
 - Possibilité d'écrire des commandes en js directement
 ---------
+
 Explication sur les notifications utilisateurquand ça bug (Ajout dans la v1.8.0) 
+
+---------
+Ajouter une explication sur la mise à jour linux (voir comment ça le fait pour windows)
