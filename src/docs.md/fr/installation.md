@@ -51,8 +51,8 @@ Pour pouvoir afficher vos animations sur votre live vous devez ajouter une sourc
 1. Pour ajouter une source navigateur, Ouvrez OBS, cliquez sur le petit plus en bas a gauche de la liste de vos scènes.
    ![OBS scene list](/assets/images/docs/obs_scene_list.png)
 
-2. Créer une nouvelle source navigateur et nomez la comme vous le désirez.
-   ![OBS browser source](/assets/images/docs/obs_create_browser_source.png)
+2. Créer une nouvelle source navigateur et nommez la comme vous le désirez.
+   ![OBS browser source](/assets/images/docs/obs_create_source_navigateur.png)
 
 3. Dans le champ URL, entrez l'adresse suivante: **http://localhost:4242/overlay**
    ![OBS browser source](/assets/images/docs/obs_browser_source_config.png)
