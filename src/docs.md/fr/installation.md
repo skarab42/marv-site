@@ -91,3 +91,6 @@ Au lancement de Marv, connectez vous à votre compte twitch. C'est indispensable
 
 ![Marv Connection Twitch](/assets/images/docs/Marv_Connection_Twitch.png)
 
+** Relancer Marv **
+
+Pour quitter Marv, cliquez droit sur l'icone dans le system tray et cliquez quitter.
