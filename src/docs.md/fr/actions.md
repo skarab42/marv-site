@@ -7,6 +7,7 @@ Affiche la liste des scènes disponibles dans OBS.
 Si vous cliquez sur une scène inactive dans la liste alors vous activez la scène sur OBS.
 #### Paramètres
 - Déclenchement : [voir la liste](/fr/docs/actions#declenchements)
+- Aléatoire : activez ce paramètre sur plusieurs animations pour les déclencher de façon aléatoire pour le même évènement
 - Événement : [voir la liste](/fr/docs/actions#evenements)
 #### Informations
 Il n'y que les événements **Aucun** et **Command** qui fonctionnent pour le moment
