@@ -82,8 +82,7 @@ Pour chaque commande vous pouvez :
     Quand je reçois le message `!position 12 27` alors `x` contient `12` et `y` contient `56`
 - Description : description affichée à côté de la commande dans le widget
 - Cooldown : nombre de secondes avant de pouvoir réutiliser la commande
-- Message : message qui sera envoyé dans le chat
-  - [support de la syntaxe ejs](https://ejs.co/#docs)
+- Message : message qui sera envoyé dans le chat (Il est possible d'utiliser la syntaxe [ejs](https://ejs.co/#docs) et d'écrire du JavaScript).
 
 ### Supporters
 **Pour les streamers affiliés /partenaires seulement**  
