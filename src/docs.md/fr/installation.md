@@ -1,6 +1,4 @@
-# Démarrage rapide
-
-## Installer Marv
+# Installer Marv
 
 ### Windows :
 Vous pouvez télécharger la dernière version de Marv [ici](https://github.com/skarab42/marv/releases/download/v1.7.0/Marv-Setup-1.7.0.exe).
