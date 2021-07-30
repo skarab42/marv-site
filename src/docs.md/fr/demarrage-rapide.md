@@ -4,7 +4,7 @@
 
 1. Créer un panneau.
 2. Ajouter un bouton dans le panneau et **éditez** l'action. 
-3. Choisir "commandes". Vous pouvez choisir le préfixe de votre choix ou conserver le "!"
+3. Choisir "commandes". Vous pouvez choisir le préfixe de votre choix ou conserver le "!".
 4. Fermer la fenêtre d'édition (Un nouveau champ apparaît dans le panneau créé).
 5. Taper "help" dans le champ et **cliquez** sur **ajouter** (La commande devrait être apparue dans la liste).
 6. Passer la souris sur les trois petits points blanc à droite de la nouvelle commande.
