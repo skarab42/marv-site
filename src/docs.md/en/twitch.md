@@ -1,3 +1,0 @@
-# Twitch
-
-## Documentation coming soon...
