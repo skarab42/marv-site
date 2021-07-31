@@ -18,6 +18,3 @@ Noter ici tous les endroits où une illustration serait utile :
 - ??
 - ??
 
----------
-
-- Possibilité de "await" une réponse : permet de récupérer des informations (exemple : les informations d'un utilisateur , comme sa bio ) et de répondre dans le chat uniquement une fois que la réponse a été récupéré
