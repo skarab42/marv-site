@@ -85,7 +85,7 @@ Pour chaque commande vous pouvez :
 - Message : message qui sera envoyé dans le chat.
 
 
-Il est possible d'utiliser la syntaxe [ejs](https://ejs.co/#docs) et d'écrire du JavaScript :
+Il est possible d'utiliser la syntaxe [ejs](https://ejs.co/#docs) et d'écrire du JavaScript (le support du JavaScript est experimental) :
 
 Exemple :
 ```ejs
