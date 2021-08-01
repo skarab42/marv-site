@@ -90,7 +90,7 @@ Il est possible d'utiliser la syntaxe [ejs](https://ejs.co/#docs) et d'écrire d
 Exemple :
 ```ejs
 <% const {description} = await api.getUser(channel) %>
-Allez voir www.titch.tv/<%= channel %> : <%= description %>
+Allez voir www.twitch.tv/<%= channel %> : <%= description %>
 ```
 
 Penser à rajouter **channel** dans le champ variables.
