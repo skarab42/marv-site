@@ -1,7 +1,7 @@
 Timeline
 --------
 
-​	tips : you can zoom/unzoom the timeline
+​	tips : you can zoom/unzoom the timeline / you can move in the timeline by dragging it
 
 parler des clés
 créer des étapes dans les animations avec les clés
