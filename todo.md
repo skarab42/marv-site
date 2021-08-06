@@ -1,6 +1,8 @@
 Timeline
 --------
 
+​	tips : you can zoom/unzoom the timeline
+
 parler des clés
 créer des étapes dans les animations avec les clés
 pour supprimer une clé : double click droit (si si ..... )
