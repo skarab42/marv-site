@@ -1,3 +1,0 @@
-# OBS
-
-## Documentation coming soon...
